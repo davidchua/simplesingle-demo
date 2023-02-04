@@ -1,0 +1,3 @@
+[submodule "themes/simplesingle"]
+	path = themes/simplesingle
+	url = https://github.com/davidchua/simplesingle
